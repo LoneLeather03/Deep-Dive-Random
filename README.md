@@ -1,2 +1,2 @@
 # Deep-Dive-Random
-Class that draws random numbers
+Drawing from a pool of int or integers from an abstract class.
